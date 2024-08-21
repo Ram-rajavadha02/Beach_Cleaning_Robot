@@ -7,11 +7,3 @@ Operating autonomously, SWEEP is guided by a combination of GPS, IMU sensors, ul
 
 SWEEP represents an ever-evolving solution for cleaner and more sustainable coastal environments, marking a significant leap forward in beach cleaning and waste management technology.
 
-## Usage
-
-To explore any of the Codes, navigate to the respective folder and run the Python scripts or Jupyter notebooks. For example:
-
-```bash
-cd Gazebo Simulation/src
-python obstacle_avoidance.py
-```
