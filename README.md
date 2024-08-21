@@ -6,3 +6,12 @@ SWEEP's cutting-edge design incorporates high-torque DC motors and wide tires on
 Operating autonomously, SWEEP is guided by a combination of GPS, IMU sensors, ultrasonic sensors, servo, and DC-geared planetary motors, powered by sustainable LiPo batteries. The integration of ESP32, Arduino Mega 2560, and Raspberry Pi-4 ensures seamless communication among key components. The user-friendly Web GUI interface allows both manual and autonomous control.
 
 SWEEP represents an ever-evolving solution for cleaner and more sustainable coastal environments, marking a significant leap forward in beach cleaning and waste management technology.
+
+## Usage
+
+To explore any of the Codes, navigate to the respective folder and run the Python scripts or Jupyter notebooks. For example:
+
+```bash
+cd Gazebo Simulation/src
+python obstacle_avoidance.py
+```
